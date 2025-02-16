@@ -7,7 +7,7 @@ automation testing using **Selenium WebDriver**. I actively work on projects rel
 
 ---
 
-## 🔧 **Tech Stack & Skills**  
+## 🔧 ** Tech Stack & Skills Learning **  
 
 - 💻 **Backend Development:** Java, Spring Boot, REST APIs, Microservices  
 - 🔒 **Security:** JWT, OAuth, Spring Security  
